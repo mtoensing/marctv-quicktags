@@ -15,8 +15,9 @@ This plugin displays the most basic of quicktag buttons on your comment forms, u
 
 == Changelog ==
 
-= 2.8 =
+= 3.0 =
 * Migration to GitHub actions.
+* No code changes.
 
 = 2.6 =
 * Removed jQuery dependency. 
