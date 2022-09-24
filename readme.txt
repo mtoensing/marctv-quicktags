@@ -3,7 +3,7 @@ Contributors: MarcDK, Ipstenu
 Tags: comments, wysiwyg, quicktags
 Requires at least: 4.6
 Tested up to: 5.6
-Stable tag: 2.6
+Stable tag: 2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,9 +15,11 @@ This plugin displays the most basic of quicktag buttons on your comment forms, u
 
 == Changelog ==
 
-= 2.6 =
+= 2.7 =
+* Migration to GitHub actions.
 
-Removed jQuery dependency. 
+= 2.6 =
+* Removed jQuery dependency. 
 
 = 2.5 =
 * Plugin Name: Simple Comment Quicktag
