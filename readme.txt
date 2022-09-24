@@ -2,8 +2,8 @@
 Contributors: MarcDK, Ipstenu
 Tags: comments, wysiwyg, quicktags
 Requires at least: 4.6
-Tested up to: 5.6
-Stable tag: 3.0.1
+Tested up to: 6.0
+Stable tag: 3.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,9 @@ Make commenting easier with bold, italic, add link and quote buttons on top of t
 
 == Description ==
 
-This plugin displays the most basic of quicktag buttons on your comment forms, using the Quicktag API built into WordPress (as of 3.3). No jQuery needed.
+This plugin displays the most basic of quicktag buttons on your comment forms, using the Quicktag API built into WordPress (as of 3.3). No jQuery needed. 
+
+Contribute on [GitHub](https://github.com/mtoensing/marctv-quicktags).
 
 == Changelog ==
 
