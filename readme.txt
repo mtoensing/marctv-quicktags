@@ -2,8 +2,8 @@
 Contributors: MarcDK, Ipstenu
 Tags: comments, wysiwyg, quicktags
 Requires at least: 4.6
-Tested up to: 6.3
-Stable tag: 3.0.3
+Tested up to: 6.4
+Stable tag: 3.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,9 @@ This plugin displays the most basic of quicktag buttons on your comment forms, u
 Contribute on [GitHub](https://github.com/mtoensing/marctv-quicktags).
 
 == Changelog ==
+
+= 3.0.4 = 
+* Compatibility with WordPress 6.4
 
 = 3.0.3 = 
 * Compatibility with WordPress 6.3
