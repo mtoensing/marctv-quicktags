@@ -5,7 +5,7 @@
   Description: Make commenting easier with bold, italic, add link and quote buttons on top of the form.
   Version: 3.0.4
   Author: Marc Tönsing
-  Author URI: https://marc.tv
+  Author URI: https://toensing.com
   Text Domain: marctv-quicktags
 
 	Original author until 2010: Marc Tönsing -- http://www.marctv.de/blog/2010/08/25/marctv-wordpress-plugins/
