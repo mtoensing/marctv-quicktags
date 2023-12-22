@@ -18,7 +18,7 @@ Contribute on [GitHub](https://github.com/mtoensing/marctv-quicktags).
 == Changelog ==
 
 = 3.0.5 =
-* House-Keeping 
+* Minor text changes
 
 = 3.0.4 = 
 * Compatibility with WordPress 6.4
