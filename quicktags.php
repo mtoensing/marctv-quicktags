@@ -3,7 +3,7 @@
   Plugin Name: Simple Comment Quicktags
   Plugin URI: https://marc.tv/marctv-wordpress-plugins/
   Description: Make commenting easier with bold, italic, add link and quote buttons on top of the form.
-  Version: 3.0.5
+  Version: 3.0.6
   Author: Marc Tönsing
   Author URI: https://toensing.com
   Text Domain: marctv-quicktags
